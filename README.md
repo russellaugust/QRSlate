@@ -1,5 +1,9 @@
+I worked on this project for a year and loved it.  It came in really handy on some shoots, but I've been too busy to do all of the upkeep and programming on my own.  I've also come to appreciate the open source community more and believe it's important to be involved in it. 
+
+
 **QRSlate**
-Digital Movie Slate
+
+*A Digital Movie Slate Importer*
 
 QRSlate bridges the gap between production and editorial.
 
@@ -19,4 +23,4 @@ During the roll, you can also drop Markers. Markers can be named and commented o
 
 When you're ' shoot, you can email yourself an updater file, drop it in with the footage, and your media will be automatically updated with the most recent metadata!
 
-*Note:  This is the code for the desktop importer.  *
+*Note:  This is the code for the desktop importer.*
