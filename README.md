@@ -24,3 +24,5 @@ During the roll, you can also drop Markers. Markers can be named and commented o
 When you're ' shoot, you can email yourself an updater file, drop it in with the footage, and your media will be automatically updated with the most recent metadata!
 
 *Note:  This is the code for the desktop importer.*
+
+https://www.youtube.com/watch?v=0aQoIazIeKc
